@@ -27,13 +27,7 @@ git clone https://github.com/shehryar-khan789/password-generator.git
 pip install -r requirements.txt
 
 
-3. Run the app:
-
-python password_generator.py
-
-OR run the Streamlit app:
-
-streamlit run app.py
+3. Run the app:streamlit link [https://passwordgenerator-kckbsbkqbphpglztzbovpy.streamlit.app/]
 
 
 
